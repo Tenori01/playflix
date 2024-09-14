@@ -1,0 +1,15 @@
+body {
+    color: orangered;
+    background: gray;
+}
+.categoria-videos{
+    display: flex;
+    overflow-y: auto;
+    gap: 15px;
+}
+
+section{
+padding- left: 20px;
+padding- right: 20px
+
+}
